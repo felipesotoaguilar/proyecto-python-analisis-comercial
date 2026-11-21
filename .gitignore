@@ -1,0 +1,12 @@
+# Datos del curso: no se publican
+*.xlsx
+*.xls
+*.csv
+datos_limpios/
+graficos/
+resultados_proyecto_final.zip
+
+# Archivos temporales
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
